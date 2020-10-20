@@ -1,4 +1,4 @@
-fork from https://github.com/endernewton/tf-faster-rcnn for my own project
+fork from https://github.com/endernewton/tf-faster-rcnn for my own project  
 For a good and more up-to-date implementation for faster/mask RCNN with multi-gpu support, please see the example in TensorPack [here](https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN).
 
 # tf-faster-rcnn
